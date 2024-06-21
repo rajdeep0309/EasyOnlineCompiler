@@ -80,7 +80,9 @@ This is where your installation instructions go.
 You can add snippets here that your readers can copy-paste with click:
 
 ```shell
-gh repo clone navendu-pottekkat/awesome-readme
+git clone https://github.com/rajdeep0309/EasyOnlineCompiler.git
+cd REC
+npm run start
 ```
 
  
