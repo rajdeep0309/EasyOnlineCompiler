@@ -34,17 +34,6 @@ Code editor with syntax highlighting, auto-completion, and error detection.
 
 Powerful backend services built with Node.js for fast and reliable code compilation and execution.
 Scalable architecture to handle multiple concurrent users without compromising performance.
-
-<b>Code Sharing and Collaboration:</b>
-
-Easily share your code snippets with others via unique URLs.
-Collaborate in real-time with team members on coding projects.
-
-<b>User Authentication and Profiles:</b>
-
-Secure login and registration system to save your work and preferences.
-Personalized profiles to manage and track your coding progress.
-
 <b>Customization and Themes:</b>
 
 Customize the editor’s appearance with various themes and settings.
