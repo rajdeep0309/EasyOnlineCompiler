@@ -69,31 +69,6 @@ Identify and fix errors quickly with comprehensive debugging tools.
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 : Similar dynamic badge, but for pull requests.
 
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
-: Shows the open source license the project uses.
- 
-# Quick Start Demo
-
-![Demo Preview](https://source.unsplash.com/random/1280x720)
-
-I believe that you should bring value to the reader as soon as possible. You should be able to get the user up and running with your project with minimal friction.
-
-If you have a quickstart guide, this is where it should be.
-
-Alternatively, you can add a demo to show what your project can do.
- 
-# Table of Contents
-
-This is a table of contents for your project. It helps the reader navigate through the README quickly.
-- [Project Title](#project-title)
-- [Quick Start Demo](#quick-start-demo)
-- [Table of Contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-- [License](#license)
-
  
 # Installation
 [(Back to top)](#table-of-contents)
@@ -118,35 +93,10 @@ Firstly you have to download our project after that you have to just write your 
 
 
  
-# Development
-[(Back to top)](#table-of-contents)
-
-You have people who want to use your project and then you have people who want contribute to your project.
-
-This is where you provide instructions for the latter.
-
-Add instructions on how to set up a development environment, clone, and build the project.
-
-You can use the code snippets here as well:
-
-```shell
-command to clone your project
-command to build your project
-command to run your project in development mode
-```
-
- 
 # Contribute
 [(Back to top)](#table-of-contents)
 
 RAJDEEP GHOSH AND SHOAL KOLEY Contribute to this project!
 
- 
-# License
-[(Back to top)](#table-of-contents)
-
-You can also mention what license the project uses. I usually add it like this:
-
-[MIT license](./LICENSE)
 
 
