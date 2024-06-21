@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <ChakraProvider>
-      <Box minH="90vh" bg="#0f0a19" color="grey" px={2} py={2}>
+      <Box minH="100vh" bg="#0f0a19" color="grey" px={2} py={2}>
         <CodeEditor />
       </Box>
     </ChakraProvider>
