@@ -9,8 +9,48 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 [![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+Introducing our Online Compiler, a powerful and intuitive web application designed to streamline the coding experience for developers of all levels. Built using the robust frameworks of React and Node.js, this online compiler offers a seamless and efficient environment for writing, running, and testing code in multiple programming languages. Whether you are a beginner learning to code or an experienced developer working on a project, our compiler provides all the tools you need to code efficiently.
 
-Welcome to our state-of-the-art Online Compiler, designed and developed using React for the frontend and Node.js for the backend. This powerful tool offers a seamless coding experience directly from your browser, catering to developers of all skill levels.
+<h3>Features</h3> 
+<b>Multi-Language Support:</b>  
+
+Write and execute code in various programming languages including Python,  Java, C++.
+Switch effortlessly between languages with a user-friendly interface.
+
+<b> Real-time Code Execution:</b>
+
+Instant feedback with real-time code execution.
+View output and debug information immediately after running your code.
+
+<b>Intuitive User Interface:</b>
+
+Clean and modern design using React for a smooth user experience.
+Code editor with syntax highlighting, auto-completion, and error detection.
+
+<b>Backend Efficiency:</b>
+
+Powerful backend services built with Node.js for fast and reliable code compilation and execution.
+Scalable architecture to handle multiple concurrent users without compromising performance.
+
+<b>Code Sharing and Collaboration:</b>
+
+Easily share your code snippets with others via unique URLs.
+Collaborate in real-time with team members on coding projects.
+
+<b>User Authentication and Profiles:</b>
+
+Secure login and registration system to save your work and preferences.
+Personalized profiles to manage and track your coding progress.
+
+<b>Customization and Themes:</b>
+
+Customize the editor’s appearance with various themes and settings.
+Tailor the coding environment to suit your preferences for maximum productivity.
+<b>Integrated Debugger:</b>
+
+Step through your code with the integrated debugger.
+Identify and fix errors quickly with comprehensive debugging tools.
+
 <!-- Add badges with link to Shields IO -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
