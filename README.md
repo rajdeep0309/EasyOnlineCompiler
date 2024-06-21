@@ -9,7 +9,10 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 [![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
+
+<p>
 Introducing our Online Compiler, a powerful and intuitive web application designed to streamline the coding experience for developers of all levels. Built using the robust frameworks of React and Node.js, this online compiler offers a seamless and efficient environment for writing, running, and testing code in multiple programming languages. Whether you are a beginner learning to code or an experienced developer working on a project, our compiler provides all the tools you need to code efficiently.
+</p>
 
 <h3>Features</h3> 
 <b>Multi-Language Support:</b>  
@@ -46,6 +49,7 @@ Personalized profiles to manage and track your coding progress.
 
 Customize the editor’s appearance with various themes and settings.
 Tailor the coding environment to suit your preferences for maximum productivity.
+
 <b>Integrated Debugger:</b>
 
 Step through your code with the integrated debugger.
