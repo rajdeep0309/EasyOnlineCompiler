@@ -70,7 +70,8 @@ npm run start
 # Usage
 [(Back to top)](#table-of-contents)
 
-Next, you have to explain how to use your project. You can create subsections under here to explain more clearly.
+Firstly you have to download our project after that you have to just write your code in our online code editor and click on run button to compile your code 
+
 
  
 # Development
