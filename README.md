@@ -1,6 +1,6 @@
                           
  
-![Awesome ReadME](https://github.com/pottekkat/awesome-readme/raw/master/header.png)
+![Awesome ReadME](ss1.jpg)
  
 # ONLINE CODE EDITOR
 
