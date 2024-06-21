@@ -94,9 +94,7 @@ command to run your project in development mode
 # Contribute
 [(Back to top)](#table-of-contents)
 
-You can use this section to highlight how people can contribute to your project.
-
-You can add information on how they can open issues or how they can sponsor the project.
+RAJDEEP GHOSH AND SHOAL KOLEY Contribute to this project!
 
  
 # License
