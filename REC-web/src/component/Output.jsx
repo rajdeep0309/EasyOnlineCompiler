@@ -41,7 +41,7 @@ const Output = ({ editorRef, language, value, user_input }) => {
 
   return (
     <>
-      <Box w="50%" mb={3}>
+      {/* <Box w="50%" mb={3} className="Output__Box"> */}
         <Text mb={1} fontSize={"lg"}>
           Output
         </Text>
@@ -61,12 +61,13 @@ const Output = ({ editorRef, language, value, user_input }) => {
           bgColor="black"
           color="green.400"
           fontSize="lg"
+          overflow="scroll"
         >
           {output
             ? output.map((line, index) => <Text key={index}>{line}</Text>)
             : "Enter Run to see output"}
         </Box>
-      </Box>
+      {/* </Box> */}
     </>
   );
 };

@@ -1,7 +1,14 @@
-/* Box{
-  minH:100vh ,
-  bg:#0f0a19,
-   color:grey ,
-   px:6, 
-  py:8
-} */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border:4px solid yellow;
+
+}
+.Output__box{
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; */
+  background-color: yellow;
+}
