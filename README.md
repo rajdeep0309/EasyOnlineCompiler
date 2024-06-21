@@ -13,5 +13,5 @@
 <li>COMPILE THE FOLLOWING LANGUAGES - C++,JAVA,PYTHON</li>
 </ul><h2>Setup</h2>
 <hr><p>git clone https://github.com/rajdeep0309/MovieTicketBooking. git</p>
-<p>cd aadad</p>
+<p>cd REC</p>
 <p>npm run start</p>
