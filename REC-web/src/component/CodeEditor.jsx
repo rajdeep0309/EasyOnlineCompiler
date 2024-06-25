@@ -14,14 +14,13 @@ const CodeEditor = () => {
   const [language, setLanguage] = useState("cpp"); // [language, setLanguage
   const [value, setvalue] = useState(CODE_SNIPPETS["cpp"]);
   const editorRef = useRef();
-  const [w800] = useMediaQuery("(max-width: 820px)");
+  const [w800] = useMediaQuery("(max-width: 820px)")
   const [h1080] = useMediaQuery("(max-height: 1090px)");
   const [w667] = useMediaQuery("(min-width: 667px)");
-  
 
   const [w360] = useMediaQuery("(min-width: 360px)");
   const [h375] = useMediaQuery("(min-height: 375px)");
-  const [w428] = useMediaQuery("(max-width: 429px)");
+  const [w430] = useMediaQuery("(max-width: 431px)");
   const [h926] = useMediaQuery("(max-height: 927px)");
 
   // [isLargerThan768
@@ -37,7 +36,7 @@ const CodeEditor = () => {
   return (
     <>
       <Box>
-        {w360 && h375 && w428 && h926 && (
+        {w360 && w430 && (
           <VStack spacing={4}>
             <Box w="100%" h="50%" mb={2} className="Editor-Box">
               <LanguageSelector language={language} onSelect={onSelect} />
@@ -80,9 +79,9 @@ const CodeEditor = () => {
               />
             </Box>
           </VStack>
-        )}
+         )} 
 
-        {!(w360 && h375 && w428 && h926) && (
+        {!(w360 && w430) && (
           <HStack spacing={4}>
             <Box w="50%" mb={2} className="Editor-Box">
               <LanguageSelector language={language} onSelect={onSelect} />
@@ -102,7 +101,7 @@ const CodeEditor = () => {
                 Input
               </Text>
               <textarea
-              style={{marginTop:"4px"}}
+                style={{ marginTop: "4px" }}
                 className="InputTextPanel"
                 type="text"
                 placeholder="Enter input data:"
@@ -110,7 +109,7 @@ const CodeEditor = () => {
               />
             </Box>
 
-            <Box w="50%" mb={3} className="Output__Box" >
+            <Box w="50%" mb={3} className="Output__Box">
               <Output
                 value={value}
                 user_input={user_input}
