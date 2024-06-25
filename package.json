@@ -1,9 +1,12 @@
 {
+  "homepage": "https://github.com/rajdeep0309/EasyOnlineCompiler",
   "name": "rec-web",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
@@ -16,6 +19,8 @@
     "@monaco-editor/react": "^4.6.0",
     "axios": "^1.6.8",
     "framer-motion": "^11.0.23",
+    "gh": "^2.8.9",
+    "pages": "^0.0.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
