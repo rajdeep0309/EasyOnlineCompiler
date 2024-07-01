@@ -14,7 +14,7 @@ const CodeEditor = () => {
   const [language, setLanguage] = useState("cpp"); // [language, setLanguage
   const [value, setvalue] = useState(CODE_SNIPPETS["cpp"]);
   const editorRef = useRef();
-  const [w800] = useMediaQuery("(max-width: 820px)")
+  const [w800] = useMediaQuery("(max-width: 820px)");
   const [h1080] = useMediaQuery("(max-height: 1090px)");
   const [w667] = useMediaQuery("(min-width: 667px)");
 
@@ -36,7 +36,7 @@ const CodeEditor = () => {
   return (
     <>
       <Box>
-        {w360 && w430 && (
+        {w430 && (
           <VStack spacing={4}>
             <Box w="100%" h="50%" mb={2} className="Editor-Box">
               <LanguageSelector language={language} onSelect={onSelect} />
@@ -79,9 +79,9 @@ const CodeEditor = () => {
               />
             </Box>
           </VStack>
-         )} 
+        )}
 
-        {!(w360 && w430) && (
+        {!w430 && (
           <HStack spacing={4}>
             <Box w="50%" mb={2} className="Editor-Box">
               <LanguageSelector language={language} onSelect={onSelect} />
